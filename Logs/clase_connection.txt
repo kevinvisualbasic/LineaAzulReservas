@@ -1,0 +1,27 @@
+/*
+Este archivo contiene la informacion oportuna de lo que debe tener la clase conexion la cual 
+debe ser capaz de establecer una conexión con la base de datos de sql server a la aplicacion WEB
+
+02/11/2015
+*/
+
+Se sugiere que tenga lo siguiente:
+	-Metodo de conexión
+	-Obtener datos(de la base de datos)
+	-Ingresar datos
+	-Eliminar datos
+	-Actualizar datos
+	
+
+	
+Ante cualquier duda, no dude en consultar.
+
+Recuerde que este es solo un documento de sugerencia. Si, como equipo encargado de la Base de datos,
+encuentran un metodo más factible y/u optimo, utilicenlo.
+
+Recuerde notificar al área de Algoritmos de los cambios pertinentes.
+	
+Saludos
+
+	
+	
